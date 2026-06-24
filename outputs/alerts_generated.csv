@@ -1,43 +1,43 @@
 alert_id,transaction_id,risk_score,risk_level,reason,status,created_at
-cc0b5e17,7656,0.9546270572127411,High,"Foreign Transaction, Location Mismatch, Low Device Trust",Open,2026-02-24 13:57:21.536778
-5422a050,6916,0.6079393812644236,High,"Foreign Transaction, Location Mismatch, Low Device Trust",Open,2026-02-24 13:57:21.536778
-27f55fe9,8121,0.8518670515541216,High,"Location Mismatch, Low Device Trust",Open,2026-02-24 13:57:21.536778
-2596d55d,7166,0.6016611765189226,High,"Foreign Transaction, Location Mismatch, Low Device Trust",Open,2026-02-24 13:57:21.536778
-3ddf093d,6157,0.7347600903498741,High,Low Device Trust,Open,2026-02-24 13:57:21.536778
-101589b7,6394,0.6738410750081032,High,"Foreign Transaction, Location Mismatch, Low Device Trust",Open,2026-02-24 13:57:21.536778
-4030e70d,3148,0.6121715929872464,High,"Foreign Transaction, Location Mismatch, Low Device Trust",Open,2026-02-24 13:57:21.536778
-d14859fc,7590,0.8289524889384727,High,"Location Mismatch, Low Device Trust",Open,2026-02-24 13:57:21.536778
-e3e04857,67,0.6147364074105252,High,"Foreign Transaction, Location Mismatch, Low Device Trust",Open,2026-02-24 13:57:21.536778
-576dcbda,7698,0.6219363899099197,High,"Location Mismatch, High Transaction Velocity, Low Device Trust",Open,2026-02-24 13:57:21.536778
-6820c11e,5856,0.9724689420844181,High,"Foreign Transaction, Location Mismatch, Low Device Trust",Open,2026-02-24 13:57:21.536778
-5eb4322e,3300,0.8033050795002664,High,"Foreign Transaction, Low Device Trust",Open,2026-02-24 13:57:21.536778
-628d74ee,6788,0.6502748540614643,High,"Foreign Transaction, Location Mismatch, Low Device Trust",Open,2026-02-24 13:57:21.536778
-cbc087a1,4011,0.8995542883872986,High,"Location Mismatch, Low Device Trust",Open,2026-02-24 13:57:21.536778
-30044247,775,0.6052886982272758,High,"Foreign Transaction, Location Mismatch, Low Device Trust",Open,2026-02-24 13:57:21.536778
-a2259e6a,4345,0.8169977530619679,High,"Location Mismatch, Low Device Trust",Open,2026-02-24 13:57:21.536778
-f4ba0ea7,2764,0.6054922391123001,High,"Foreign Transaction, Location Mismatch, Low Device Trust",Open,2026-02-24 13:57:21.536778
-072b4764,1623,0.9634490300531482,High,"Foreign Transaction, Location Mismatch, Low Device Trust",Open,2026-02-24 13:57:21.536778
-71a32dec,1007,0.8545932893237627,High,"Foreign Transaction, Low Device Trust",Open,2026-02-24 13:57:21.536778
-8554cf28,4969,0.8675975046878399,High,"Location Mismatch, Low Device Trust",Open,2026-02-24 13:57:21.536778
-2e64f6c3,5536,0.954933663664932,High,"Foreign Transaction, Location Mismatch, Low Device Trust",Open,2026-02-24 13:57:21.536778
-a6894b99,5342,0.8935993157810798,High,"Foreign Transaction, Location Mismatch, Low Device Trust",Open,2026-02-24 13:57:21.536778
-24150a0b,1305,0.7998882355969645,High,"Location Mismatch, Low Device Trust",Open,2026-02-24 13:57:21.536778
-a5375e2c,7898,0.8627890323058717,High,"Location Mismatch, Low Device Trust",Open,2026-02-24 13:57:21.536778
-55e251dd,5707,0.8952647581119166,High,"Foreign Transaction, Low Device Trust",Open,2026-02-24 13:57:21.536778
-573a9286,5769,0.8182229730741218,High,"Foreign Transaction, Low Device Trust",Open,2026-02-24 13:57:21.536778
-0edf21d9,9073,0.6918745688843784,High,"Location Mismatch, High Transaction Velocity, Low Device Trust",Open,2026-02-24 13:57:21.536778
-c5f1d442,2581,0.7767155383947738,High,Low Device Trust,Open,2026-02-24 13:57:21.536778
-c8de34fa,4049,0.8093193627232778,High,"Foreign Transaction, Low Device Trust",Open,2026-02-24 13:57:21.536778
-ec7a9bd5,2630,0.991485649397706,High,"Foreign Transaction, Location Mismatch, Low Device Trust",Open,2026-02-24 13:57:21.536778
-a7aaf75c,8731,0.6008176813365875,High,"Location Mismatch, Low Device Trust",Open,2026-02-24 13:57:21.536778
-eba1f979,7735,0.7771119635643775,High,Low Device Trust,Open,2026-02-24 13:57:21.536778
-8bd7a3cf,4517,0.7535197417657762,High,Low Device Trust,Open,2026-02-24 13:57:21.536778
-adaa0765,9973,0.8376965900572539,High,"Location Mismatch, Low Device Trust",Open,2026-02-24 13:57:21.536778
-8187a007,1555,0.8395081604713184,High,"Foreign Transaction, Low Device Trust",Open,2026-02-24 13:57:21.536778
-9365dba6,3922,0.7878442737264982,High,"Foreign Transaction, Low Device Trust",Open,2026-02-24 13:57:21.536778
-59cce837,4303,0.823132767701404,High,"Foreign Transaction, Low Device Trust",Open,2026-02-24 13:57:21.536778
-66edfb12,1548,0.8158692630633839,High,"Foreign Transaction, Low Device Trust",Open,2026-02-24 13:57:21.536778
-4d558d1b,9553,0.9906806638613223,High,"Foreign Transaction, Location Mismatch, Low Device Trust",Open,2026-02-24 13:57:21.536778
-995539ef,3206,0.8359348584955256,High,"Foreign Transaction, Low Device Trust",Open,2026-02-24 13:57:21.536778
-5f05023e,522,0.635502432357943,High,"Foreign Transaction, Location Mismatch, Low Device Trust",Open,2026-02-24 13:57:21.536778
-037c6326,645,0.9516138979566868,High,"Foreign Transaction, Location Mismatch, Low Device Trust",Open,2026-02-24 13:57:21.536778
+0f7f8e66,7656,0.9546270572127411,High,"Foreign Transaction, Location Mismatch, Low Device Trust",Open,2026-06-24 16:52:15.729073
+3828d860,6916,0.6079393812644236,High,"Foreign Transaction, Location Mismatch, Low Device Trust",Open,2026-06-24 16:52:15.729073
+b07a4065,8121,0.8518670515541216,High,"Location Mismatch, Low Device Trust",Open,2026-06-24 16:52:15.729073
+68f5a89c,7166,0.6016611765189226,High,"Foreign Transaction, Location Mismatch, Low Device Trust",Open,2026-06-24 16:52:15.729073
+961889b3,6157,0.7347600903498741,High,Low Device Trust,Open,2026-06-24 16:52:15.729073
+2c5c26ec,6394,0.6738410750081032,High,"Foreign Transaction, Location Mismatch, Low Device Trust",Open,2026-06-24 16:52:15.729073
+2013a666,3148,0.6121715929872464,High,"Foreign Transaction, Location Mismatch, Low Device Trust",Open,2026-06-24 16:52:15.729073
+946fa000,7590,0.8289524889384727,High,"Location Mismatch, Low Device Trust",Open,2026-06-24 16:52:15.729073
+a2d9392e,67,0.6147364074105252,High,"Foreign Transaction, Location Mismatch, Low Device Trust",Open,2026-06-24 16:52:15.729073
+ad208b17,7698,0.6219363899099197,High,"Location Mismatch, High Transaction Velocity, Low Device Trust",Open,2026-06-24 16:52:15.729073
+14663f36,5856,0.9724689420844181,High,"Foreign Transaction, Location Mismatch, Low Device Trust",Open,2026-06-24 16:52:15.729073
+e837dfa3,3300,0.8033050795002664,High,"Foreign Transaction, Low Device Trust",Open,2026-06-24 16:52:15.729073
+67e872da,6788,0.6502748540614643,High,"Foreign Transaction, Location Mismatch, Low Device Trust",Open,2026-06-24 16:52:15.729073
+7be73ecd,4011,0.8995542883872986,High,"Location Mismatch, Low Device Trust",Open,2026-06-24 16:52:15.729073
+c5e215ad,775,0.6052886982272758,High,"Foreign Transaction, Location Mismatch, Low Device Trust",Open,2026-06-24 16:52:15.729073
+f092308c,4345,0.8169977530619679,High,"Location Mismatch, Low Device Trust",Open,2026-06-24 16:52:15.729073
+7f6754f7,2764,0.6054922391123001,High,"Foreign Transaction, Location Mismatch, Low Device Trust",Open,2026-06-24 16:52:15.729073
+3ccaf216,1623,0.9634490300531482,High,"Foreign Transaction, Location Mismatch, Low Device Trust",Open,2026-06-24 16:52:15.729073
+fa675eb6,1007,0.8545932893237627,High,"Foreign Transaction, Low Device Trust",Open,2026-06-24 16:52:15.729073
+6b52b0b0,4969,0.8675975046878399,High,"Location Mismatch, Low Device Trust",Open,2026-06-24 16:52:15.729073
+84b3894c,5536,0.954933663664932,High,"Foreign Transaction, Location Mismatch, Low Device Trust",Open,2026-06-24 16:52:15.729073
+d4780564,5342,0.8935993157810798,High,"Foreign Transaction, Location Mismatch, Low Device Trust",Open,2026-06-24 16:52:15.729073
+439784db,1305,0.7998882355969645,High,"Location Mismatch, Low Device Trust",Open,2026-06-24 16:52:15.729073
+f567c454,7898,0.8627890323058717,High,"Location Mismatch, Low Device Trust",Open,2026-06-24 16:52:15.729073
+ad8adede,5707,0.8952647581119166,High,"Foreign Transaction, Low Device Trust",Open,2026-06-24 16:52:15.729073
+83571718,5769,0.8182229730741218,High,"Foreign Transaction, Low Device Trust",Open,2026-06-24 16:52:15.729073
+b179f5b8,9073,0.6918745688843784,High,"Location Mismatch, High Transaction Velocity, Low Device Trust",Open,2026-06-24 16:52:15.729073
+ef63a858,2581,0.7767155383947738,High,Low Device Trust,Open,2026-06-24 16:52:15.729073
+548f7f68,4049,0.8093193627232778,High,"Foreign Transaction, Low Device Trust",Open,2026-06-24 16:52:15.729073
+2fac930f,2630,0.991485649397706,High,"Foreign Transaction, Location Mismatch, Low Device Trust",Open,2026-06-24 16:52:15.729073
+e1eccb19,8731,0.6008176813365875,High,"Location Mismatch, Low Device Trust",Open,2026-06-24 16:52:15.729073
+6b6b6017,7735,0.7771119635643775,High,Low Device Trust,Open,2026-06-24 16:52:15.729073
+d0056d61,4517,0.7535197417657762,High,Low Device Trust,Open,2026-06-24 16:52:15.729073
+c5c7e7eb,9973,0.8376965900572539,High,"Location Mismatch, Low Device Trust",Open,2026-06-24 16:52:15.729073
+5e93c98d,1555,0.8395081604713184,High,"Foreign Transaction, Low Device Trust",Open,2026-06-24 16:52:15.729073
+df2ae079,3922,0.7878442737264982,High,"Foreign Transaction, Low Device Trust",Open,2026-06-24 16:52:15.729073
+16a999c6,4303,0.823132767701404,High,"Foreign Transaction, Low Device Trust",Open,2026-06-24 16:52:15.729073
+d901dc35,1548,0.8158692630633839,High,"Foreign Transaction, Low Device Trust",Open,2026-06-24 16:52:15.729073
+b20be7cf,9553,0.9906806638613223,High,"Foreign Transaction, Location Mismatch, Low Device Trust",Open,2026-06-24 16:52:15.729073
+9dfcab4a,3206,0.8359348584955256,High,"Foreign Transaction, Low Device Trust",Open,2026-06-24 16:52:15.729073
+4ca79146,522,0.635502432357943,High,"Foreign Transaction, Location Mismatch, Low Device Trust",Open,2026-06-24 16:52:15.729073
+12291a34,645,0.9516138979566868,High,"Foreign Transaction, Location Mismatch, Low Device Trust",Open,2026-06-24 16:52:15.729073
